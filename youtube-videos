@@ -1,0 +1,6 @@
+Adam Marczak - Azure for Everyone
+https://www.youtube.com/watch?v=KsO2FHQdILs
+time 6:36
+Step 1: create lookup activity found in general and Drag and Drop
+Step 2: configure settings for lookup activity -> specify source dataset -> Use query -> select * from adflookupdemo.INFORMATION_SCHEMA.TABLES where table_type = 'BASE TABLE'
+
